@@ -1,0 +1,14 @@
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\bin\Debug\net6.0\xadrez-consoloe.exe
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\bin\Debug\net6.0\xadrez-consoloe.deps.json
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\bin\Debug\net6.0\xadrez-consoloe.runtimeconfig.json
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\bin\Debug\net6.0\xadrez-consoloe.dll
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\bin\Debug\net6.0\xadrez-consoloe.pdb
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.dll
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\refint\xadrez-consoloe.dll
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.pdb
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\xadrez-consoloe.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Projetos\xadrez-consoloe\xadrez-consoloe\obj\Debug\net6.0\ref\xadrez-consoloe.dll
